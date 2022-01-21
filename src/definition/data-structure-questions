@@ -107,7 +107,7 @@ A.Insertion sorting: Insertion sort is a simple sorting algorithm.
   The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
   Selection sorting: is selecting the smallest value and take it to the index.
   Bubble sorting : is getting two indexes and cheks if the right index is less than the left one and swaps the values
-  bucket sorting: is puting the values is different buckets (for emeple from 0-5 in a bucket anf 6-10 in an aother 11-15 in an another and so on),
+  bucket sorting: is puting the values is different buckets (for emeple from 0-5 in a bucket anf 6-10 in an another 11-15 in an another and so on),
                    sorting the values in each bucket and at the end  gathering the values
   merge sorting: the list of values wil splitt and then checks 2 values and always take the smallest an reorder the values.
   heap sorting:Heap sort is a comparison-based sorting technique,we first find the minimum element and place the minimum element at the beginning.
